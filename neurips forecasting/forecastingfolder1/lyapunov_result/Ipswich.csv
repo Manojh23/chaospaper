@@ -1,0 +1,29 @@
+Column_Name,Optimal_Time_Delay,Optimal_Embedding_Dimension,Status
+Unnamed: 0,Error,Error,Embedding size (100) >= length of series (76)
+Date,N/A,N/A,No numeric data in column.
+HomeTeam,N/A,N/A,No numeric data in column.
+AwayTeam,N/A,N/A,No numeric data in column.
+FTHG,Error,Error,Embedding size (100) >= length of series (76)
+FTAG,Error,Error,Embedding size (100) >= length of series (76)
+HTGS,Error,Error,Embedding size (100) >= length of series (76)
+ATGS,Error,Error,Embedding size (100) >= length of series (76)
+HTGC,Error,Error,Embedding size (100) >= length of series (76)
+ATGC,Error,Error,Embedding size (100) >= length of series (76)
+HTP,Error,Error,Embedding size (100) >= length of series (76)
+ATP,Error,Error,Embedding size (100) >= length of series (76)
+MW,Error,Error,Embedding size (100) >= length of series (76)
+HTFormPts,Error,Error,Embedding size (100) >= length of series (76)
+ATFormPts,Error,Error,Embedding size (100) >= length of series (76)
+HTWinStreak3,Error,Error,Embedding size (100) >= length of series (76)
+HTWinStreak5,Error,Error,Embedding size (100) >= length of series (76)
+HTLossStreak3,Error,Error,Embedding size (100) >= length of series (76)
+HTLossStreak5,Error,Error,Embedding size (100) >= length of series (76)
+ATWinStreak3,Error,Error,Embedding size (100) >= length of series (76)
+ATWinStreak5,Error,Error,Embedding size (100) >= length of series (76)
+ATLossStreak3,Error,Error,Embedding size (100) >= length of series (76)
+ATLossStreak5,Error,Error,Embedding size (100) >= length of series (76)
+HTGD,Error,Error,Embedding size (100) >= length of series (76)
+ATGD,Error,Error,Embedding size (100) >= length of series (76)
+DiffPts,Error,Error,Embedding size (100) >= length of series (76)
+DiffFormPts,Error,Error,Embedding size (100) >= length of series (76)
+win,N/A,N/A,No numeric data in column.

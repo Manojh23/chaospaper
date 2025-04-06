@@ -1,0 +1,29 @@
+Column_Name,Optimal_Time_Delay,Optimal_Embedding_Dimension,Status
+Unnamed: 0,10,4,Success
+Date,N/A,N/A,No numeric data in column.
+HomeTeam,N/A,N/A,No numeric data in column.
+AwayTeam,N/A,N/A,No numeric data in column.
+FTHG,4,2,Success
+FTAG,2,2,Success
+HTGS,10,9,Success
+ATGS,9,8,Success
+HTGC,10,7,Success
+ATGC,7,9,Success
+HTP,8,6,Success
+ATP,7,6,Success
+MW,7,9,Success
+HTFormPts,10,2,Success
+ATFormPts,4,5,Success
+HTWinStreak3,7,2,Success
+HTWinStreak5,1,2,Success
+HTLossStreak3,7,2,Success
+HTLossStreak5,1,2,Success
+ATWinStreak3,6,2,Success
+ATWinStreak5,1,2,Success
+ATLossStreak3,6,2,Success
+ATLossStreak5,1,2,Success
+HTGD,1,5,Success
+ATGD,8,6,Success
+DiffPts,5,5,Success
+DiffFormPts,7,8,Success
+win,N/A,N/A,No numeric data in column.

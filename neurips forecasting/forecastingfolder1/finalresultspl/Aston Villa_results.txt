@@ -1,0 +1,122 @@
+
+==============================================================
+Chaos Classification Results for Aston Villa
+Date/Time: 16-Feb-2025 10:46:28
+==============================================================
+Column: Year NOT FOUND in the dataset.
+--------------------------------------------------------------
+Column: FTHG
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: FTAG
+  Classification: chaotic
+  K-statistic: 0.9974
+  Permutation Entropy: 6.6153
+--------------------------------------------------------------
+Column: HTGS
+  Classification: chaotic
+  K-statistic: 0.9559
+  Permutation Entropy: 3.9964
+--------------------------------------------------------------
+Column: ATGS
+  Classification: chaotic
+  K-statistic: 0.9647
+  Permutation Entropy: 5.2716
+--------------------------------------------------------------
+Column: HTGC
+  Classification: chaotic
+  K-statistic: 0.9416
+  Permutation Entropy: 4.7799
+--------------------------------------------------------------
+Column: ATGC
+  Classification: chaotic
+  K-statistic: 0.9570
+  Permutation Entropy: 4.6621
+--------------------------------------------------------------
+Column: HTP
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATP
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: MW
+  Classification: chaotic
+  K-statistic: 0.9499
+  Permutation Entropy: 1.1465
+--------------------------------------------------------------
+Column: HTFormPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATFormPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTWinStreak3
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTWinStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTLossStreak3
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTLossStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATWinStreak3
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATWinStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATLossStreak3
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATLossStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTGD
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATGD
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: DiffPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: DiffFormPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------

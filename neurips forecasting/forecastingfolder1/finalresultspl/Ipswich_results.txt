@@ -1,0 +1,52 @@
+
+==============================================================
+Chaos Classification Results for Ipswich
+Date/Time: 16-Feb-2025 10:47:59
+==============================================================
+Column: Year NOT FOUND in the dataset.
+--------------------------------------------------------------
+Column: FTHG
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: FTAG
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTGS
+  Classification: nonstationary
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATGS
+  Classification: nonstationary
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTGC
+  Classification: nonstationary
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATGC
+  Classification: nonstationary
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTP
+  Classification: nonstationary
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATP
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: MW
+  Classification: nonstationary
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
