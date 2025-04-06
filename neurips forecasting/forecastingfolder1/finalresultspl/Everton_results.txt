@@ -1,0 +1,122 @@
+
+==============================================================
+Chaos Classification Results for Everton
+Date/Time: 16-Feb-2025 10:47:19
+==============================================================
+Column: Year NOT FOUND in the dataset.
+--------------------------------------------------------------
+Column: FTHG
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: FTAG
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTGS
+  Classification: chaotic
+  K-statistic: 0.9704
+  Permutation Entropy: 4.9840
+--------------------------------------------------------------
+Column: ATGS
+  Classification: chaotic
+  K-statistic: 0.9585
+  Permutation Entropy: 4.0436
+--------------------------------------------------------------
+Column: HTGC
+  Classification: chaotic
+  K-statistic: 0.9575
+  Permutation Entropy: 4.1117
+--------------------------------------------------------------
+Column: ATGC
+  Classification: chaotic
+  K-statistic: 0.9648
+  Permutation Entropy: 4.9240
+--------------------------------------------------------------
+Column: HTP
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATP
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: MW
+  Classification: chaotic
+  K-statistic: 0.9566
+  Permutation Entropy: 1.1485
+--------------------------------------------------------------
+Column: HTFormPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATFormPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTWinStreak3
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTWinStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTLossStreak3
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTLossStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATWinStreak3
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATWinStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATLossStreak3
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATLossStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTGD
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATGD
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: DiffPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: DiffFormPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------

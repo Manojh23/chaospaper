@@ -1,0 +1,17 @@
+Column_Name,Optimal_Time_Delay,Optimal_Embedding_Dimension,Status
+FTGoalsFor,Error,Error,Embedding size (100) >= length of series (76)
+FTGoalsAgainst,Error,Error,Embedding size (100) >= length of series (76)
+TeamGS,Error,Error,Embedding size (100) >= length of series (76)
+TeamGC,Error,Error,Embedding size (100) >= length of series (76)
+TeamPoints,Error,Error,Embedding size (100) >= length of series (76)
+MatchWeek,Error,Error,Embedding size (100) >= length of series (76)
+TeamFormPts,Error,Error,Embedding size (100) >= length of series (76)
+WinStreak3,Error,Error,Embedding size (100) >= length of series (76)
+WinStreak5,Error,Error,Embedding size (100) >= length of series (76)
+LossStreak3,Error,Error,Embedding size (100) >= length of series (76)
+LossStreak5,Error,Error,Embedding size (100) >= length of series (76)
+TeamGD,Error,Error,Embedding size (100) >= length of series (76)
+TeamDiffPts,Error,Error,Embedding size (100) >= length of series (76)
+TeamDiffFormPts,Error,Error,Embedding size (100) >= length of series (76)
+Opponent,N/A,N/A,No numeric data in column.
+IsHome,Error,Error,Embedding size (100) >= length of series (76)

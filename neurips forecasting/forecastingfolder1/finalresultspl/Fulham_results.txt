@@ -1,0 +1,122 @@
+
+==============================================================
+Chaos Classification Results for Fulham
+Date/Time: 16-Feb-2025 10:47:39
+==============================================================
+Column: Year NOT FOUND in the dataset.
+--------------------------------------------------------------
+Column: FTHG
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: FTAG
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTGS
+  Classification: chaotic
+  K-statistic: 0.9634
+  Permutation Entropy: 5.1498
+--------------------------------------------------------------
+Column: ATGS
+  Classification: chaotic
+  K-statistic: 0.9350
+  Permutation Entropy: 3.4440
+--------------------------------------------------------------
+Column: HTGC
+  Classification: chaotic
+  K-statistic: 0.9430
+  Permutation Entropy: 5.0022
+--------------------------------------------------------------
+Column: ATGC
+  Classification: chaotic
+  K-statistic: 0.9444
+  Permutation Entropy: 4.6744
+--------------------------------------------------------------
+Column: HTP
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATP
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: MW
+  Classification: chaotic
+  K-statistic: 0.9385
+  Permutation Entropy: 1.1423
+--------------------------------------------------------------
+Column: HTFormPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATFormPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTWinStreak3
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTWinStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTLossStreak3
+  Classification: chaotic
+  K-statistic: 0.9975
+  Permutation Entropy: 1.4873
+--------------------------------------------------------------
+Column: HTLossStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATWinStreak3
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATWinStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATLossStreak3
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATLossStreak5
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: HTGD
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: ATGD
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: DiffPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------
+Column: DiffFormPts
+  Classification: stochastic
+  K-statistic: 
+  Permutation Entropy: 
+--------------------------------------------------------------

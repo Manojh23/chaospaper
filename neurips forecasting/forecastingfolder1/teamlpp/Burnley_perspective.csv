@@ -1,0 +1,17 @@
+Column_Name,Optimal_Time_Delay,Optimal_Embedding_Dimension,Status
+FTGoalsFor,3,2,Success
+FTGoalsAgainst,1,2,Success
+TeamGS,10,9,Success
+TeamGC,8,8,Success
+TeamPoints,5,8,Success
+MatchWeek,10,9,Success
+TeamFormPts,10,2,Success
+WinStreak3,5,2,Success
+WinStreak5,5,2,Success
+LossStreak3,9,2,Success
+LossStreak5,1,2,Success
+TeamGD,10,5,Success
+TeamDiffPts,8,4,Success
+TeamDiffFormPts,7,5,Success
+Opponent,N/A,N/A,No numeric data in column.
+IsHome,Error,Error,"An error occurred during embedding: numpy boolean subtract, the `-` operator, is not supported, use the bitwise_xor, the `^` operator, or the logical_xor function instead."
